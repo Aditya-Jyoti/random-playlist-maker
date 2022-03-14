@@ -21,15 +21,17 @@
 
 ![Application Main Page](Assets/SpotifyApplicationsMainPage.png)
 
-    - next in the [spotify developer dashboard](https://developer.spotify.com/dashboard/applications) click on your application and go to the settings tab
+- next in the
+  [spotify developer dashboard](https://developer.spotify.com/dashboard/applications)
+  click on your application and go to the settings tab
 
 ![Screenshot_20220314_171756](https://user-images.githubusercontent.com/75803854/158166646-dd25548d-1b50-4a69-ac57-41d1c0b171b8.png)
 
-    - here you should see a `callback` section
+- here you should see a `callback` section
 
 ![Screenshot_20220314_171904](https://user-images.githubusercontent.com/75803854/158166684-3d217d5f-7c54-4275-92fd-a2beb903a555.png)
 
-    - in that please add the following url just as is `http://example.com/callback/`
+- in that please add the following url just as is `http://example.com/callback/`
 
 5. Click on `SHOW CLIENT SECRET` highlighted in green text
 
